@@ -6,4 +6,4 @@ Using CSS \
 :nth-last-child()\
 tr to access to the column\
 td to access to the row \
-[look to the page](https://hamzadarej.github.io/Periodic-table/)\
+[go to the page](https://hamzadarej.github.io/Periodic-table/)\
