@@ -18,9 +18,7 @@ td:nth-last-child(2) ,tr:nth-last-child(3) :nth-child(15) {
     background-color: orange;
 }
 
-tr:nth-child(1) :nth-child(1) {
-  background-color: yellow;
-}
+
 td:nth-child(1) ,tr:nth-child(7) :nth-child(17){
   background-color:cornflowerblue ;
 }
@@ -37,7 +35,7 @@ tr:nth-child(9) :nth-child(n + 2),tr:nth-child(7) :nth-child(3) {
 td:nth-child(3),td:nth-child(4),td:nth-child(5),td:nth-child(6),td:nth-child(7),td:nth-child(8),td:nth-child(9),td:nth-child(10),td:nth-child(11),td:nth-child(12){ 
     background-color: green;
   }
-td:nth-last-child(3) ,td:nth-last-child(4) ,tr:nth-child(2) :nth-child(14){
+td:nth-last-child(3) ,td:nth-last-child(4) ,tr:nth-child(2) :nth-child(14),tr:nth-child(1) :nth-child(1){
     background-color: yellow;
 } 
 td:nth-last-child(6),td:nth-last-child(5) ,tr:nth-child(6) :nth-child(15){
